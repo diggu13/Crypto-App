@@ -1,0 +1,7 @@
+.app{
+  background-color: #000000;
+  background-image: linear-gradient(147deg, #000000 0%, #22313f 74%);
+  padding: 20px;
+  min-height: 100vh;
+  max-width: 100vw;
+}
